@@ -1,0 +1,12 @@
+{
+  "name": "nodejs-openai",
+  "packageManager": "yarn@3.2.3",
+  "dependencies": {
+    "openai": "^3.0.0",
+    "typescript": "^4.8.2"
+  },
+  "devDependencies": {
+    "@types/node": "^18.7.13",
+    "ts-node": "^10.9.1"
+  }
+}
